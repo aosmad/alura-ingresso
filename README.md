@@ -1,0 +1,1 @@
+Projeto de estudo da Alura, simulando um site de venda de ingressos, o HTML foi dado, a gente com auxílio dos professores montou o arquivo em JS
